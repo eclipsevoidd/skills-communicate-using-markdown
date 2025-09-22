@@ -4,3 +4,7 @@
 #### i originally modified the wrong file
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` java
+int[] ars = new int[67];
+```
