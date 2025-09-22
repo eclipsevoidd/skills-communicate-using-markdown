@@ -8,3 +8,6 @@
 ``` java
 int[] ars = new int[67];
 ```
+- [X] do this
+- [X] do that
+- [ ] pabeigt rāvalda darbu
